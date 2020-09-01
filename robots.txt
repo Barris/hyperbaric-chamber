@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: https://barris.github.io/hyperbaric-chamber/sitemap.xml
