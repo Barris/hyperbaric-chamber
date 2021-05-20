@@ -216,3 +216,23 @@ To test your theme, run `script/server` (or `bundle exec jekyll serve`) and open
 ## License
 
 The theme is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
+
+## personal notes
+
+SERVE
+
+cd /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/Jekyll/blog-project
+bundle exec jekyll serve --baseurl ''
+
+BUILD
+
+cd /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/Jekyll/blog-project
+
+JEKYLL_ENV=production bundle exec jekyll build
+
+cp -a /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/Jekyll/blog-project/_site/.  /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/hyperbaric-chamber/
+
+
+?
+
+https://jekyllrb.com/docs/continuous-integration/github-actions/
