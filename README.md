@@ -234,5 +234,9 @@ cp -a /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Git
 
 ## To do
 cp -a, This needs to exclude .git-files
-Antiflicker snippet too slow
+evaluate Antiflicker snippet
+https://andydavies.me/blog/2020/11/16/the-case-against-anti-flicker-snippets/
+https://www.simoahava.com/analytics/optimize-anti-flicker-snippet-delay-test/
+https://guessthetest.com/everything-you-need-to-know-about-google-optimize-anti-flicker-snippet/
+
 ? https://jekyllrb.com/docs/continuous-integration/github-actions/
