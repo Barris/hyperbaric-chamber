@@ -232,7 +232,7 @@ JEKYLL_ENV=production bundle exec jekyll build
 
 cp -a /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/Jekyll/blog-project/_site/.  /Users/fredrikbarrdahl/Library/Mobile\ Documents/com\~apple\~CloudDocs/Github/hyperbaric-chamber/
 
-
-?
-
-https://jekyllrb.com/docs/continuous-integration/github-actions/
+## To do
+cp -a, This needs to exclude .git-files
+Antiflicker snippet too slow
+? https://jekyllrb.com/docs/continuous-integration/github-actions/
